@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc61e47cd0e84265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md"
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md"
               }
             }
           }
@@ -146,21 +159,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "96a7eb8636f01ebc",
+  "active": "dc61e47cd0e84265",
   "lastOpenFiles": [
+    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적",
     "images/Khan Linear Algebra/1-4-2-5.png",
     "Pasted image 20230418173931.png",
     "images/Khan Linear Algebra/1-4-2-4.png",
     "Pasted image 20230418162106.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(1) 선형 부분공간.md",
-    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
     "Pasted image 20230418160538.png",
     "Pasted image 20230418155528.png",
     "images/Khan Linear Algebra/1-4-2-3.png",
     "images/Khan Linear Algebra/1-4-2-2.png",
     "images/Khan Linear Algebra/1-4-2-1.png",
     "Pasted image 20230418152951.png",
-    "images/Khan Linear Algebra/1-4-1-4.png",
     "INFO.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(1) 선형대수학을 위한 벡터란?.md",
@@ -179,7 +193,6 @@
     "\"\"../images",
     "\"\"..",
     "2023-04-17.md",
-    "무제 폴더",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성/선형결합과 생성",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성",
