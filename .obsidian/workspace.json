@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md"
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7bc84ddd765c36f7",
+  "active": "96a7eb8636f01ebc",
   "lastOpenFiles": [
+    "images/Khan Linear Algebra/1-4-2-5.png",
+    "Pasted image 20230418173931.png",
+    "images/Khan Linear Algebra/1-4-2-4.png",
+    "Pasted image 20230418162106.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(1) 선형 부분공간.md",
+    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
+    "Pasted image 20230418160538.png",
+    "Pasted image 20230418155528.png",
+    "images/Khan Linear Algebra/1-4-2-3.png",
+    "images/Khan Linear Algebra/1-4-2-2.png",
+    "images/Khan Linear Algebra/1-4-2-1.png",
+    "Pasted image 20230418152951.png",
+    "images/Khan Linear Algebra/1-4-1-4.png",
+    "INFO.md",
+    "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(1) 선형대수학을 위한 벡터란?.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(2) 실좌표공간.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(3) 대수와 그래프를 이용한 벡터의 덧셈.md",
@@ -156,26 +171,13 @@
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(6) 단위벡터.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(7) 직선의 매개변수 표현.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성/선형결합과 생성.md",
-    "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(2) 선형독립 더 알아보기.md",
-    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(1) 선형 부분공간.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(3) 선형생성과 선형독립 예제.md",
     "\"\"../images/Khan.md",
     "images Khan Linear Algebra 1-4-1-1.png.md",
     "images%2FKhan Linear Algebra%2F1-4-1-1.png.md",
-    "images/Khan Linear Algebra/1-4-1-1.png",
     "\"\"../images",
     "\"\"..",
-    "images/Khan Linear Algebra/1-4-1-2.png",
-    "images/Khan Linear Algebra/1-3-3-3.png",
-    "images/Khan Linear Algebra/1-3-3-2.png",
-    "images/Khan Linear Algebra/1-3-3-1.png",
-    "images/Khan Linear Algebra/1-3-2-3.png",
-    "images/Khan Linear Algebra/1-3-2-2.png",
-    "images/Khan Linear Algebra/1-3-2-1.png",
-    "images/Khan Linear Algebra/1-3-1-2.png",
-    "images/Khan Linear Algebra/1-3-1-5.png",
-    "INFO.md",
     "2023-04-17.md",
     "무제 폴더",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성.md",
