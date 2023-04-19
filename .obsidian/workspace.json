@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "245689e333d0549f",
+        "id": "b8b4550792a3c754",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc84ddd765c36f7",
+            "id": "724408773c35d453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc61e47cd0e84265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(3) 코시-슈바르츠 부등식의 증명.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.50260543823242
   },
   "right": {
     "id": "ec1608d191fe3d73",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(3) 코시-슈바르츠 부등식의 증명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(3) 코시-슈바르츠 부등식의 증명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md"
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(3) 코시-슈바르츠 부등식의 증명.md"
               }
             }
           }
@@ -159,23 +146,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dc61e47cd0e84265",
+  "active": "724408773c35d453",
   "lastOpenFiles": [
-    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
-    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
-    "images/Khan Linear Algebra/1-5-1-1.png",
-    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적",
-    "images/Khan Linear Algebra/1-4-2-5.png",
-    "Pasted image 20230418173931.png",
-    "images/Khan Linear Algebra/1-4-2-4.png",
-    "Pasted image 20230418162106.png",
-    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(1) 선형 부분공간.md",
-    "Pasted image 20230418160538.png",
-    "Pasted image 20230418155528.png",
-    "images/Khan Linear Algebra/1-4-2-3.png",
-    "images/Khan Linear Algebra/1-4-2-2.png",
-    "images/Khan Linear Algebra/1-4-2-1.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(2) 벡터 내적의 성질 증명.md",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(3) 코시-슈바르츠 부등식의 증명.md",
+    "images/Khan Linear Algebra/1-5-3-2.png",
     "INFO.md",
+    "Pasted image 20230419162041.png",
+    "images/Khan Linear Algebra/1-5-3-1.png",
+    "images/Khan Linear Algebra/1-5-2-3.png",
+    "Pasted image 20230419154748.png",
+    "images/Khan Linear Algebra/1-5-2-2.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
+    "images/Khan Linear Algebra/1-5-2-1.png",
+    "images/Khan Linear Algebra/1-5-1-4.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
+    "images/Khan Linear Algebra/1-5-1-3.png",
+    "images/Khan Linear Algebra/1-5-1-2.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적",
+    "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(1) 선형 부분공간.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(1) 선형독립이란?.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(1) 선형대수학을 위한 벡터란?.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-1 벡터/(2) 실좌표공간.md",
@@ -204,8 +193,6 @@
     "fonts/Pretendard-1.3.6/web/variable/woff2-dynamic-subset/PretendardVariable.subset.9.woff2",
     "fonts/Pretendard-1.3.6/web/variable/woff2-dynamic-subset/PretendardVariable.subset.89.woff2",
     "fonts/Pretendard-1.3.6/web/variable/woff2-dynamic-subset/PretendardVariable.subset.88.woff2",
-    "무제 파일.canvas",
-    "Khan Linear Algebra/(1) 벡터와 공간.md",
-    "s.md"
+    "무제 파일.canvas"
   ]
 }
