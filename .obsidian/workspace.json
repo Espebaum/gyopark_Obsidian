@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b842a124a05c045c",
+        "id": "f746d9c18a820048",
         "type": "tabs",
         "children": [
           {
-            "id": "e37b61f1d59370fb",
+            "id": "b3326e18eac88143",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(7) 벡터의 외적이란?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5026054382324
+    "width": 294.5026054382324
   },
   "right": {
     "id": "ec1608d191fe3d73",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(7) 벡터의 외적이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(7) 벡터의 외적이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(7) 벡터의 외적이란?.md"
+              }
             }
           }
         ]
@@ -138,26 +146,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e37b61f1d59370fb",
+  "active": "96a7eb8636f01ebc",
   "lastOpenFiles": [
-    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md",
+    "1-7-1-2.png",
+    "1-7-1-1.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(7) 벡터의 외적이란?.md",
+    "images/Khan Linear Algebra/1-6-1-3.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(6) 점과 법선벡터를 이용하여 R3에서 평면 정의하기.md",
-    "images/1-5-5-3.png",
-    "images/1-5-5-2.png",
+    "images/Khan Linear Algebra/1-6-1-4.png",
+    "images/Khan Linear Algebra/1-6-1-2.png",
+    "images/Khan Linear Algebra/1-6-1-1.png",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md",
+    "images/Khan Linear Algebra/1-5-5-3.png",
+    "images/Khan Linear Algebra/1-5-5-2.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(4) 벡터의 삼각부등식.md",
-    "images/1-5-5-1.png",
+    "images/Khan Linear Algebra/1-5-5-1.png",
     "images/Khan Linear Algebra/1-5-4-4.png",
     "images/Khan Linear Algebra/1-5-4-3.png",
     "Pasted im![[1-5-4-2.png.md",
-    "images/Khan Linear Algebra/1-5-4-2.png",
     "1-5-4-2.png.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(3) 코시-슈바르츠 부등식의 증명.md",
-    "images/Khan Linear Algebra/1-5-4-1.png",
     "INFO.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(2) 벡터 내적의 성질 증명.md",
-    "images/Khan Linear Algebra/1-5-3-4.png",
-    "images/Khan Linear Algebra/1-5-3-3.png",
-    "images/Khan Linear Algebra/1-5-3-2.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적",
@@ -175,10 +185,8 @@
     "Khan Linear Algebra/1) 벡터와 공간/1-3 선형종속과 독립/(3) 선형생성과 선형독립 예제.md",
     "\"\"../images/Khan.md",
     "images Khan Linear Algebra 1-4-1-1.png.md",
-    "images%2FKhan Linear Algebra%2F1-4-1-1.png.md",
     "\"\"../images",
     "\"\"..",
-    "2023-04-17.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성/선형결합과 생성",
     "Khan Linear Algebra/1) 벡터와 공간/1-2 선형결합과 생성",
     "fonts/Pretendard-1.3.6/web/variable/woff2-dynamic-subset/PretendardVariable.subset.91.woff2",
