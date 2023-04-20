@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "18dbae9fc9541238",
+        "id": "b842a124a05c045c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e1527fe695ac8d6",
+            "id": "e37b61f1d59370fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.50271224975586
+    "width": 270.5026054382324
   },
   "right": {
     "id": "ec1608d191fe3d73",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5e1527fe695ac8d6",
+  "active": "e37b61f1d59370fb",
   "lastOpenFiles": [
-    "1-5-5-3.png",
-    "1-5-5-2.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(5) 벡터 사이의 각 정의하기.md",
+    "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(6) 점과 법선벡터를 이용하여 R3에서 평면 정의하기.md",
+    "images/1-5-5-3.png",
+    "images/1-5-5-2.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(4) 벡터의 삼각부등식.md",
-    "1-5-5-1.png",
+    "images/1-5-5-1.png",
     "images/Khan Linear Algebra/1-5-4-4.png",
     "images/Khan Linear Algebra/1-5-4-3.png",
     "Pasted im![[1-5-4-2.png.md",
@@ -165,7 +158,6 @@
     "images/Khan Linear Algebra/1-5-3-4.png",
     "images/Khan Linear Algebra/1-5-3-3.png",
     "images/Khan Linear Algebra/1-5-3-2.png",
-    "Pasted image 20230419162041.png",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적/(1) 벡터의 내적과 벡터의 길이.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-4 부분공간과 부분공간의 기저/(2) 부분공간의 기저.md",
     "Khan Linear Algebra/1) 벡터와 공간/1-5 벡터의 내적과 외적",
